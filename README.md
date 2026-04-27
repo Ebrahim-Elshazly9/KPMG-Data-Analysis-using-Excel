@@ -46,14 +46,6 @@ The PDF report includes:
 - **Key Insights**: Summarizing customer segmentation, transaction analysis, and new customer insights.
 - **Recommendations**: Suggestions for marketing strategies, business expansion, and product improvements based on the analysis.
 
-## File Structure
-- **Task 1: Data Cleaning**: [Excel Workbook](https://github.com/shreyashsupe/KPMG-Data-Analysis-using-Excel/blob/main/Task%201%20Data%20Cleaning.xlsx)
-- **Task 2: Customer Segmentation**: [Excel Workbook](https://github.com/shreyashsupe/KPMG-Data-Analysis-using-Excel/blob/main/Task%202%20%20Customer%20Segmentation.xlsx)
-- **Task 3: Transaction Analysis**: [Excel Workbook](https://github.com/shreyashsupe/KPMG-Data-Analysis-using-Excel/blob/main/Task%203%20Transaction%20Analysis.xlsx)
-- **Task 4: New Customer Insights**: [Excel Workbook](https://github.com/shreyashsupe/KPMG-Data-Analysis-using-Excel/blob/main/Task%204%20New%20Customer%20Insights.xlsx)
-- **Task 5: Customer Lifetime Value (CLV) Analysis**: [Excel Workbook](https://github.com/shreyashsupe/KPMG-Data-Analysis-using-Excel/blob/main/Task%205%20Customer%20Lifetime%20Value%20(CLV)%20Analysis.xlsx)
-- **Task 6: Executive Summary and Recommendations**: [PDF Report](https://github.com/shreyashsupe/KPMG-Data-Analysis-using-Excel/blob/main/Task%206.pdf)
-
 
 ## Tools Used
 - **Excel**: For data cleaning, analysis, and visualization.
